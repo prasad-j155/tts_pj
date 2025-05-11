@@ -1,0 +1,6 @@
+streamlit
+kokoro
+soundfile
+librosa
+numpy
+matplotlib
