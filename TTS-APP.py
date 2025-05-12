@@ -1,6 +1,9 @@
+import spacy
 import en_core_web_sm
 
+# Load model directly (no need to download it dynamically)
 nlp = en_core_web_sm.load()
+
 
 
 
