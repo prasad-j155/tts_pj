@@ -1,5 +1,5 @@
 import spacy
-import en_core_web_sm  # Model is pre-installed via requirements.txt
+import en_core_web_sm
 
 nlp = en_core_web_sm.load()
 
