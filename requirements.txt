@@ -4,3 +4,4 @@ soundfile
 librosa
 numpy
 matplotlib
+spacy
