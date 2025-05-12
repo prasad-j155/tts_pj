@@ -1,7 +1,8 @@
 import spacy
-import en_core_web_sm  # Import the model directly
+import en_core_web_sm  # Model is pre-installed via requirements.txt
 
 nlp = en_core_web_sm.load()
+
 
 
 import streamlit as st
